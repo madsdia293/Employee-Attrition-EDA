@@ -2,6 +2,8 @@
 
 This is an exploratory data analysis of an employee attrition dataset using SQL queries. The SQL queries used in this analysis aim to gain insights into different aspects of employee attrition.
 
+Link to dataset: https://www.kaggle.com/datasets/patelprashant/employee-attrition
+
 ## Insights
 
 - Employees with 5+ years of experience in the age group 27-35 show specific attrition patterns.
