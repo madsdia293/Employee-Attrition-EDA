@@ -19,7 +19,4 @@ Link to dataset: https://www.kaggle.com/datasets/patelprashant/employee-attritio
 ## Conclusion
 By analyzing the employee attrition dataset using SQL queries, organizations can gain valuable insights into attrition patterns, salary trends, promotions, and other factors. These insights can guide decision-making and help organizations develop strategies to reduce attrition rates and enhance employee retention. Creating a positive and supportive work environment based on the findings from this EDA can contribute to improved employee satisfaction and engagement.
 
-## Tableau Dashboard
-For a visual representation of the insights gained from this analysis, a Tableau dashboard has been created. You can access the dashboard at the following link:(https://public.tableau.com/app/profile/matthew.browning)
-
-The Tableau dashboard provides interactive visualizations and additional insights to enhance the understanding of the employee attrition EDA.
+*Tableau visualizations of these insights are in progress.*
